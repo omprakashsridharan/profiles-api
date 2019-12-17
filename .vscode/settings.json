@@ -1,4 +1,6 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.linting.prospectorEnabled": false,
+    "python.pythonPath": "/home/omprakash/profiles-api-env/bin/python"
 }
